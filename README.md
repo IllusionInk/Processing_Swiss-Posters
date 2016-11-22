@@ -38,6 +38,7 @@ The process is quite basic and I have outlined it below (the code is commented a
    I looked up the reference to understand some of the used concepts like push, pop for interacting with the co-ordinate system, font classes and functions etc.
 
  - ##### Video Compilation
+ 
    A [tutorial video](https://www.youtube.com/watch?v=G2hI9XL6oyk) I referred, in order to generate a video from a set of images in processing, by the very helpful [**Daniel Shiffman**](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (*check out his channel for some insane Processing content*)
 
 
