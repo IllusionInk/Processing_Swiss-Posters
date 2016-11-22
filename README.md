@@ -25,9 +25,12 @@ The process is quite basic and I have outlined it below (the code is commented a
 
 ### Tools Used
 ---
+
  - #### Processing
+ 
    Processing is a java based environment for coding in the context of visual arts.  
    You can download the tool [here](https://processing.org/download/).
+   
 
 ### Reference
 ---
