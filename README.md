@@ -7,7 +7,7 @@
 
 ### Method
 ---
-##### #1 Drehen
+#### #1 Drehen
 The process is quite basic and I have outlined it below (the code is commented as well to depict the structure):
  - Illustrate a grid of squares with a nested for loop.
  - While generating each  square, translate the origin of the grid to the center of the square (we are plotting the square in center mode).
@@ -19,7 +19,7 @@ The process is quite basic and I have outlined it below (the code is commented a
 
 ### Final Renders
 ---
-##### #1 Drehen
+#### #1 Drehen
 ![Drehen](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Art%20Renders/Drehen_art.jpg)
 
 
