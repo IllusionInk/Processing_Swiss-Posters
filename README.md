@@ -1,9 +1,8 @@
 # Swiss Posters
 
-> 'Swiss Posters in Code' is an experiment to render swiss typography posters with the aid of code. This series is aimed at emulating posters and patterns from the Swiss Typography Era (International Typographic Style) of the 50s. The International Typographic Style emerged in Switzerland and Germany. 
+> 'Swiss Posters in Code' is an experiment to render swiss typography posters with the aid of code. This series is aimed at emulating posters and patterns from the Swiss Typography Era (International Typographic Style) of the 50s. It focusses mainly on using a mathematical grid as the basis for its design, followed with an asymmetrical layout (in most cases) and heavy use of sans serif typeface for their clean, structured look.
 
->    It focusses mainly on using a mathematical grid as the basis for its design, followed with an asymmetrical layout (in most cases) and heavy use of sans serif typeface for their clean, structured look. 
-   Akzidensk Hans Grotesk , the primary typeface used widely during this era; was revised to form Neue Hans Grotesk, more commonly known as 'Helvetica'.
+>    The International Typographic Style emerged in Switzerland and Germany. Akzidensk Hans Grotesk , the primary typeface used widely during this era; was revised to form Neue Hans Grotesk, more commonly known as 'Helvetica'.
 
 ### Method
 ---
