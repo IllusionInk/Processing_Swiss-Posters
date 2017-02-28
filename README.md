@@ -19,7 +19,7 @@ The process is quite basic and I have outlined it below (the code is commented a
 ### Final Renders
 ---
 #### #1 Drehen
-![Drehen](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Art%20Renders/Drehen_art.jpg)
+![Drehen](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Drehen/Art%20Renders/Drehen_art.jpg)
 
 
 ### Tools Used
