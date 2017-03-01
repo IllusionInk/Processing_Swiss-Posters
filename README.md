@@ -15,7 +15,7 @@
 
 ### Tools Used
 ---
- - #### Processing
+#### Processing
    Processing is a java based environment for coding in the context of visual arts.  
    You can download the tool [here](https://processing.org/download/).
 
