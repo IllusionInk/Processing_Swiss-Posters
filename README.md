@@ -8,9 +8,9 @@
 ### Artworks
 ---
 ##### [Drehen](https://github.com/IllusionInk/Processing_Swiss-Posters/tree/master/Drehen)
-![Drehen](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Art%20Renders/Drehen_art.jpg)
+![Drehen](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Drehen/Art%20Renders/Drehen_art.jpg)
 ##### [Beethoven](https://github.com/IllusionInk/Processing_Swiss-Posters/tree/master/Beethoven)
-![Beethoven](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Beethoven/beethoven_art.jpg)
+![Beethoven](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Beethoven/Beethoven.jpg)
 
 
 ### Tools Used
