@@ -16,7 +16,7 @@
 ### Art Renders
 ---
 ##### Image
-![Beethoven](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Art%20Renders/Drehen_art.jpg)
+![Beethoven](https://github.com/IllusionInk/Processing_Swiss-Posters/blob/master/Beethoven/Beethoven.jpg)
 
 ##### Video
 ![Beethoven Motion Poster](https://vimeo.com/206444985)
